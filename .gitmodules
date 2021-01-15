@@ -63,3 +63,8 @@
 	url = https://github.com/cran/varComp
 	shallow = true
 	registered = true
+[submodule "MAPpoly"]
+	path = MAPpoly
+	url = https://github.com/mmollina/MAPpoly
+	shallow = true
+	registered = false

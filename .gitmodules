@@ -43,6 +43,11 @@
 	url = https://github.com/lvclark/polyRAD
 	shallow = true
 	registered = true
+[submodule "qtlpoly"]
+	path = qtlpoly
+	url = https://github.com/guilherme-pereira/QTLpoly
+	shallow = true
+	registered = true
 [submodule "SPA3G"]
 	path = SPA3G
 	url = https://github.com/cran/SPA3G

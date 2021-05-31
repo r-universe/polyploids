@@ -29,13 +29,13 @@
     "oncran": true
   },
   {
-    "package": "qtlpoly"
-  },
-  {
     "package": "SPA3G"
   },
   {
     "package": "updog",
     "oncran": true
+  },
+  {
+    "package": "varComp"
   }
 ]

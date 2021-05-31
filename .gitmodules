@@ -48,6 +48,11 @@
 	url = https://github.com/guilherme-pereira/QTLpoly
 	shallow = true
 	registered = true
+[submodule "SPA3G"]
+	path = SPA3G
+	url = https://github.com/cran/SPA3G
+	shallow = true
+	registered = true
 [submodule "updog"]
 	path = updog
 	url = https://github.com/dcgerard/updog

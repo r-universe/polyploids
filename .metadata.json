@@ -32,6 +32,9 @@
     "package": "qtlpoly"
   },
   {
+    "package": "SPA3G"
+  },
+  {
     "package": "updog",
     "oncran": true
   }

@@ -1,5 +1,55 @@
 [submodule ".registry"]
 	path = .registry
-	url = https://github.com/r-universe-org/cran-to-git
+	url = https://github.com/polyploids/universe
 	shallow = true
 	branch = HEAD
+[submodule "diaQTL"]
+	path = diaQTL
+	url = https://github.com/jendelman/diaQTL
+	shallow = true
+	registered = true
+[submodule "fitPoly"]
+	path = fitPoly
+	url = https://github.com/cran/fitPoly
+	shallow = true
+	registered = true
+[submodule "GWASpoly"]
+	path = GWASpoly
+	url = https://github.com/jendelman/GWASpoly
+	shallow = true
+	registered = true
+[submodule "mappoly"]
+	path = mappoly
+	url = https://github.com/mmollina/MAPpoly
+	shallow = true
+	registered = true
+[submodule "polyBreedR"]
+	path = polyBreedR
+	url = https://github.com/jendelman/polyBreedR
+	shallow = true
+	registered = true
+[submodule "polymapR"]
+	path = polymapR
+	url = https://github.com/cran/polymapR
+	shallow = true
+	registered = true
+[submodule "polyqtlR"]
+	path = polyqtlR
+	url = https://github.com/cran/polyqtlR
+	shallow = true
+	registered = true
+[submodule "polyRAD"]
+	path = polyRAD
+	url = https://github.com/lvclark/polyRAD
+	shallow = true
+	registered = true
+[submodule "qtlpoly"]
+	path = qtlpoly
+	url = https://github.com/guilherme-pereira/QTLpoly
+	shallow = true
+	registered = true
+[submodule "updog"]
+	path = updog
+	url = https://github.com/dcgerard/updog
+	shallow = true
+	registered = true

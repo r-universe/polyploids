@@ -1,0 +1,38 @@
+[
+  {
+    "package": "diaQTL"
+  },
+  {
+    "package": "fitPoly",
+    "oncran": false
+  },
+  {
+    "package": "GWASpoly"
+  },
+  {
+    "package": "mappoly",
+    "oncran": true
+  },
+  {
+    "package": "polyBreedR"
+  },
+  {
+    "package": "polymapR",
+    "oncran": false
+  },
+  {
+    "package": "polyqtlR",
+    "oncran": false
+  },
+  {
+    "package": "polyRAD",
+    "oncran": true
+  },
+  {
+    "package": "qtlpoly"
+  },
+  {
+    "package": "updog",
+    "oncran": true
+  }
+]

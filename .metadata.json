@@ -13,6 +13,10 @@
     "package": "polyBreedR"
   },
   {
+    "package": "mappoly",
+    "oncran": true
+  },
+  {
     "package": "polymapR",
     "oncran": false
   },
@@ -34,5 +38,8 @@
   {
     "package": "updog",
     "oncran": true
+  },
+  {
+    "package": "varComp"
   }
 ]

@@ -23,6 +23,11 @@
 	url = https://github.com/jendelman/polyBreedR
 	shallow = true
 	registered = true
+[submodule "mappoly"]
+	path = mappoly
+	url = https://github.com/mmollina/MAPpoly
+	shallow = true
+	registered = true
 [submodule "polymapR"]
 	path = polymapR
 	url = https://github.com/cran/polymapR
@@ -52,5 +57,10 @@
 [submodule "updog"]
 	path = updog
 	url = https://github.com/dcgerard/updog
+	shallow = true
+	registered = true
+[submodule "varComp"]
+	path = varComp
+	url = https://github.com/cran/varComp
 	shallow = true
 	registered = true

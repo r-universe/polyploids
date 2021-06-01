@@ -10,10 +10,6 @@
     "package": "GWASpoly"
   },
   {
-    "package": "mappoly",
-    "oncran": true
-  },
-  {
     "package": "polyBreedR"
   },
   {
@@ -29,7 +25,8 @@
     "oncran": true
   },
   {
-    "package": "qtlpoly"
+    "package": "sommer",
+    "oncran": false
   },
   {
     "package": "SPA3G"
@@ -37,8 +34,5 @@
   {
     "package": "updog",
     "oncran": true
-  },
-  {
-    "package": "varComp"
   }
 ]

@@ -29,6 +29,9 @@
     "oncran": true
   },
   {
+    "package": "qtlpoly"
+  },
+  {
     "package": "sommer",
     "oncran": false
   },

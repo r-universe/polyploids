@@ -43,11 +43,6 @@
 	url = https://github.com/lvclark/polyRAD
 	shallow = true
 	registered = true
-[submodule "qtlpoly"]
-	path = qtlpoly
-	url = https://github.com/guilherme-pereira/QTLpoly
-	shallow = true
-	registered = true
 [submodule "sommer"]
 	path = sommer
 	url = https://github.com/cran/sommer

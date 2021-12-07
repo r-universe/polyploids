@@ -23,10 +23,11 @@
 	url = https://github.com/jendelman/polyBreedR
 	shallow = true
 	registered = true
-[submodule "mappoly"]
-	path = mappoly
+[submodule "MAPpoly"]
+	path = MAPpoly
 	url = https://github.com/mmollina/MAPpoly
 	shallow = true
+	branch = release
 	registered = true
 [submodule "polymapR"]
 	path = polymapR
@@ -43,30 +44,15 @@
 	url = https://github.com/lvclark/polyRAD
 	shallow = true
 	registered = true
-[submodule "qtlpoly"]
-	path = qtlpoly
-	url = https://github.com/guilherme-pereira/QTLpoly
+[submodule "QTLpoly"]
+	path = QTLpoly
+	url = https://github.com/gabrielgesteira/QTLpoly
 	shallow = true
-	registered = true
-[submodule "sommer"]
-	path = sommer
-	url = https://github.com/cran/sommer
-	shallow = true
-	branch = 3.6
-	registered = true
-[submodule "SPA3G"]
-	path = SPA3G
-	url = https://github.com/cran/SPA3G
-	shallow = true
+	branch = release
 	registered = true
 [submodule "updog"]
 	path = updog
 	url = https://github.com/dcgerard/updog
-	shallow = true
-	registered = true
-[submodule "varComp"]
-	path = varComp
-	url = https://github.com/cran/varComp
 	shallow = true
 	registered = true
 [submodule "PolyHaplotyper"]
@@ -74,3 +60,13 @@
 	url = https://github.com/cran/PolyHaplotyper
 	shallow = true
 	registered = true
+[submodule "mappoly"]
+	path = mappoly
+	url = https://github.com/mmollina/MAPpoly
+	shallow = true
+	registered = false
+[submodule "varComp"]
+	path = varComp
+	url = https://github.com/cran/varComp
+	shallow = true
+	registered = false

@@ -13,8 +13,7 @@
     "package": "polyBreedR"
   },
   {
-    "package": "mappoly",
-    "oncran": true
+    "package": "MAPpoly"
   },
   {
     "package": "polymapR",
@@ -29,22 +28,11 @@
     "oncran": true
   },
   {
-    "package": "qtlpoly",
-    "oncran": false
-  },
-  {
-    "package": "sommer",
-    "oncran": false
-  },
-  {
-    "package": "SPA3G"
+    "package": "QTLpoly"
   },
   {
     "package": "updog",
     "oncran": true
-  },
-  {
-    "package": "varComp"
   },
   {
     "package": "PolyHaplotyper",

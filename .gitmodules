@@ -23,8 +23,8 @@
 	url = https://github.com/jendelman/polyBreedR
 	shallow = true
 	registered = true
-[submodule "MAPpoly"]
-	path = MAPpoly
+[submodule "mappoly"]
+	path = mappoly
 	url = https://github.com/mmollina/MAPpoly
 	shallow = true
 	registered = true
@@ -43,8 +43,8 @@
 	url = https://github.com/lvclark/polyRAD
 	shallow = true
 	registered = true
-[submodule "QTLpoly"]
-	path = QTLpoly
+[submodule "qtlpoly"]
+	path = qtlpoly
 	url = https://github.com/gabrielgesteira/QTLpoly
 	shallow = true
 	registered = true

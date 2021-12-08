@@ -13,7 +13,8 @@
     "package": "polyBreedR"
   },
   {
-    "package": "MAPpoly"
+    "package": "mappoly",
+    "oncran": true
   },
   {
     "package": "polymapR",
@@ -28,7 +29,8 @@
     "oncran": true
   },
   {
-    "package": "QTLpoly"
+    "package": "qtlpoly",
+    "oncran": true
   },
   {
     "package": "updog",

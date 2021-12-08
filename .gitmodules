@@ -27,7 +27,6 @@
 	path = MAPpoly
 	url = https://github.com/mmollina/MAPpoly
 	shallow = true
-	branch = release
 	registered = true
 [submodule "polymapR"]
 	path = polymapR
@@ -48,7 +47,6 @@
 	path = QTLpoly
 	url = https://github.com/gabrielgesteira/QTLpoly
 	shallow = true
-	branch = release
 	registered = true
 [submodule "updog"]
 	path = updog

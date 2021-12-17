@@ -58,3 +58,8 @@
 	url = https://github.com/cran/PolyHaplotyper
 	shallow = true
 	registered = true
+[submodule "viewpoly"]
+	path = viewpoly
+	url = https://github.com/mmollina/viewpoly
+	shallow = true
+	registered = true

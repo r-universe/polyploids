@@ -39,5 +39,9 @@
   {
     "package": "PolyHaplotyper",
     "oncran": false
+  },
+  {
+    "package": "viewpoly",
+    "oncran": false
   }
 ]

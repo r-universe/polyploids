@@ -42,6 +42,6 @@
   },
   {
     "package": "viewpoly",
-    "oncran": false
+    "oncran": true
   }
 ]

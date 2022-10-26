@@ -63,3 +63,8 @@
 	url = https://github.com/mmollina/viewpoly
 	shallow = true
 	registered = true
+[submodule "polyAinv"]
+	path = polyAinv
+	url = https://github.com/mghamilton/polyAinv
+	shallow = true
+	registered = true

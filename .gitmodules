@@ -2,42 +2,42 @@
 	path = .registry
 	url = https://github.com/polyploids/universe
 	branch = HEAD
+[submodule "GWASpoly"]
+	path = GWASpoly
+	url = https://github.com/jendelman/GWASpoly
+[submodule "PolyHaplotyper"]
+	path = PolyHaplotyper
+	url = https://github.com/cran/PolyHaplotyper
 [submodule "diaQTL"]
 	path = diaQTL
 	url = https://github.com/jendelman/diaQTL
 [submodule "fitPoly"]
 	path = fitPoly
 	url = https://github.com/cran/fitPoly
-[submodule "GWASpoly"]
-	path = GWASpoly
-	url = https://github.com/jendelman/GWASpoly
-[submodule "polyBreedR"]
-	path = polyBreedR
-	url = https://github.com/jendelman/polyBreedR
 [submodule "mappoly"]
 	path = mappoly
 	url = https://github.com/mmollina/MAPpoly
+[submodule "polyAinv"]
+	path = polyAinv
+	url = https://github.com/mghamilton/polyAinv
+[submodule "polyBreedR"]
+	path = polyBreedR
+	url = https://github.com/jendelman/polyBreedR
+[submodule "polyRAD"]
+	path = polyRAD
+	url = https://github.com/lvclark/polyRAD
 [submodule "polymapR"]
 	path = polymapR
 	url = https://github.com/cran/polymapR
 [submodule "polyqtlR"]
 	path = polyqtlR
 	url = https://github.com/cran/polyqtlR
-[submodule "polyRAD"]
-	path = polyRAD
-	url = https://github.com/lvclark/polyRAD
 [submodule "qtlpoly"]
 	path = qtlpoly
 	url = https://github.com/gabrielgesteira/QTLpoly
 [submodule "updog"]
 	path = updog
 	url = https://github.com/dcgerard/updog
-[submodule "PolyHaplotyper"]
-	path = PolyHaplotyper
-	url = https://github.com/cran/PolyHaplotyper
 [submodule "viewpoly"]
 	path = viewpoly
 	url = https://github.com/mmollina/viewpoly
-[submodule "polyAinv"]
-	path = polyAinv
-	url = https://github.com/mghamilton/polyAinv

@@ -1,6 +1,6 @@
 [submodule ".registry"]
 	path = .registry
-	url = https://github.com/polyploids/universe
+	url = https://github.com/polyploids/polyploids.r-universe.dev
 	branch = HEAD
 [submodule "GWASpoly"]
 	path = GWASpoly
